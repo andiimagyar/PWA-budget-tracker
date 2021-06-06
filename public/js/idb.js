@@ -56,7 +56,7 @@ function uploadBudget() {
 
                 budgetObjectStore.clear();
 
-                alert('All saved pizzas have been submitted!');
+                alert('All saved transactions have been submitted!');
             })
 
             .catch(err => {
